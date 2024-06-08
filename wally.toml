@@ -1,0 +1,8 @@
+[package]
+name = "ulferno/signal-nonstrict"
+description = "A fork of Sleitnick/Signal without the strictness"
+version = "0.0.1"
+license = "mit"
+registry = "https://github.com/upliftgames/wally-index"
+repo = "https://github.com/Ulferno/signal-nonstrict"
+realm = "shared"

@@ -1,0 +1,1 @@
+A fork of [Signal by Sleitnick](https://sleitnick.github.io/RbxUtil/api/Signal) with the strictness removed.
